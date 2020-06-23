@@ -1,0 +1,20 @@
+h2 {
+  color: blue;
+  float: left;
+  margin: 10px 0;
+}
+
+ul {
+  float: right;
+  width: 500px;
+  list-style: none;
+}
+
+li {
+  float: left;
+  margin-left: 40px;
+}
+
+a {
+  text-decoration: none;
+}
