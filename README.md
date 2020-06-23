@@ -59,7 +59,7 @@ Required for any path section is very important to familiar with because these a
 1. [What is a character encoding, and why should I care?](https://www.w3.org/International/questions/qa-what-is-encoding)
 2. [ASCII and Unicode Character Sets](https://www.youtube.com/watch?v=I-pQH_krD0M)
 
-Oooh, the above stuffs are very boring believe me, but have to learn it, sorry.
+Oooh, the above stuffs are very boring believe me, but you have to learn it, sorry.
 
 # Frontend
 
